@@ -70,4 +70,9 @@ The project delivered a detailed GRC framework and control implementation guide 
 - NIST 800-53 Revision 5
 - Gambili LLC Case Study (2025)
 
+📫 **Contact Me**  
+- 📧 [Email](mailto:kirididavid@gmail.com)  
+- 🔗 [LinkedIn Project](https://www.linkedin.com/posts/kiridi-david_grc-assessment-assignment-activity-7359264603165335552-9RjX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1dUPEByIj2cRbQAPsn4QcGmvpGWifXhi8)
+
+
 ---
